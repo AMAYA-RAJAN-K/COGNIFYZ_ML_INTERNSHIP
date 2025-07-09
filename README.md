@@ -1,0 +1,2 @@
+# COGNIFYZ_ML_INTERNSHIP
+Machine Learning
